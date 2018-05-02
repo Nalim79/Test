@@ -1,0 +1,7 @@
+
+Pizza receipt:
+1. Find Atos pizza contact;
+2. Order quattro stagione;
+3. Prepare money to pay for delivery.
+
+End
